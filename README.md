@@ -68,7 +68,7 @@ I added more neurons to a hidden layer and added more hidden layers.
 I used different activation functions for the hidden layers.
 I reduced the number of epochs in the training regimen.
 
-## Final Report
+## Final Report on the Neural Network Model
 
 The following is a comprehensive report and analysis of the Neural Network Model, along with answers to the questions posed in the assignment. The model's primary objective was to design an algorithm that could facilitate Alphabet Soup in predicting the success of funding applicants. The binary classifier model demonstrated a relatively high accuracy in determining whether the funding would succeed.
 
@@ -84,9 +84,9 @@ To further boost the model's performance, I implemented the following steps:
 
 Overall, the model's optimization resulted in an accuracy of above 74%. It implies that each point in the test data can be correctly classified 74% of the time. 
 
-While the current model has demonstrated good performance and achieved a high level of accuracy, it's worth exploring an alternative approach - the Random Forest model. This model, also suitable for classification problems, has the potential to achieve an accuracy rate of approximately 78%, offering a competitive alternative to consider.
+While the current model has demonstrated good performance and achieved a high level of accuracy, it's worth exploring an alternative approach - the Random Forest model. This model, also suitable for classification problems, has the potential to achieve higher than 80% accuracy rates, offering a competitive alternative to consider.
 
-## Report on the Neural Network Model
+
 
 
 
